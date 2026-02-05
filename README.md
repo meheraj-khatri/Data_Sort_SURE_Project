@@ -12,7 +12,8 @@ This repository contains a suite of Python scripts designed to automate the cons
     Filename: combine_cs_sec_files.py
 
 #### Description
-    This script targets Computer Science Security research. It reads CSV files prefixed with [cs_sec], standardizes the column headers, and tags each entry with its source database.
+
+This script targets Computer Science Security research. It reads CSV files prefixed with [cs_sec], standardizes the column headers, and tags each entry with its source database.
 
 #### How it Works (Terminal Screenshot)
     Plaintext
@@ -37,7 +38,8 @@ This repository contains a suite of Python scripts designed to automate the cons
     Filename: combine_cs_files.py
 
 #### Description
-    This script is used for general Computer Science datasets. It handles the bulk merging of files labeled with the [cs] prefix and ensures that "Item Title" and "Item DOI" are converted into a unified format.
+
+This script is used for general Computer Science datasets. It handles the bulk merging of files labeled with the [cs] prefix and ensures that "Item Title" and "Item DOI" are converted into a unified format.
 
 #### How it Works (Terminal Screenshot)
     Plaintext
@@ -61,7 +63,8 @@ This repository contains a suite of Python scripts designed to automate the cons
     Filename: combine_mk_files.py
 
 #### Description
-    Specifically tailored for Marketing research datasets ([mk]). This script uses latin1 encoding during the read process to ensure that special characters often found in international marketing journals (like accents or symbols) are preserved without crashing the script.
+
+Specifically tailored for Marketing research datasets ([mk]). This script uses latin1 encoding during the read process to ensure that special characters often found in international marketing journals (like accents or symbols) are preserved without crashing the script.
 
 #### How it Works (Terminal Screenshot)
     Plaintext
