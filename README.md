@@ -1,11 +1,14 @@
 # Data_Sort_SURE_Project
- Python script to integrate four disparate datasets from ACM, IEEE, Springer, and Web of Science. Automated the merging, deduplication, and cleaning of records to create unified research repositories for Computer Science and Marketing.
+
+Python script to integrate four disparate datasets from ACM, IEEE, Springer, and Web of Science. Automated the merging, deduplication, and cleaning of records to create unified research repositories for Computer Science and Marketing.
 
 ## Publication Data Merger Tools
-    This repository contains a suite of Python scripts designed to automate the consolidation of academic publication data from various databases (ACM, IEEE, Springer, and Web of Science).
+
+This repository contains a suite of Python scripts designed to automate the consolidation of academic publication data from various databases (ACM, IEEE, Springer, and Web of Science).
 
 
 1. CS Security File Merger
+    
     Filename: combine_cs_sec_files.py
 
 ### Description
@@ -30,6 +33,7 @@
 
 
 2. General CS File Merger
+    
     Filename: combine_cs_files.py
 
 ### Description
@@ -53,6 +57,7 @@
 
 
 3. Marketing File Merger
+    
     Filename: combine_mk_files.py
 
 ### Description
