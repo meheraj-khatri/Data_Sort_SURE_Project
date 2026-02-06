@@ -1,0 +1,1058 @@
+Document Title,Authors,Publication Title,Publication Year,Abstract,DOI,PDF Link
+"Software Engineering Education Must Adapt and Evolve for an LLM (Large
+   Language Model) Environment","Kirova, Vassilka D. and Ku, Cyril S. and Laracy, Joseph R. and Marlowe,
+   Thomas J.","PROCEEDINGS OF THE 55TH ACM TECHNICAL SYMPOSIUM ON COMPUTER SCIENCE
+   EDUCATION, SIGCSE 2024, VOL. 1",2024,"In the era of artificial intelligence (AI), generative AI, and Large
+   Language Models (LLMs) in particular, have become increasingly
+   significant in various sectors. LLMs such as GPT expand their
+   applications, from content creation to advanced code completion. They
+   offer unmatched opportunities but pose unique challenges to the software
+   engineering domain. This paper discusses the necessity and urgency for
+   software engineering education to adapt and evolve to prepare software
+   engineers for the emerging LLM environment. While existing literature
+   and social media have investigated AI's integration into various
+   educational spheres, there is a conspicuous gap in examining the
+   specifics of LLMs' implications for software engineering education. We
+   explore the goals of software engineering education, and changes to
+   software engineering, software engineering education, course pedagogy,
+   and ethics. We argue that a holistic approach is needed, combining
+   technical skills, ethical awareness, and adaptable learning strategies.
+   This paper seeks to contribute to the ongoing conversation about the
+   future of software engineering education, emphasizing the importance of
+   adapting and evolving to remain in sync with rapid advancements in AI
+   and LLMs. It is hoped that this exploration will provide valuable
+   insights for educators, curriculum developers, and policymakers in
+   software engineering.",10.1145/3626252.3630927,
+How ChatGPT Will Change Software Engineering Education,"Daun, Marian and Brings, Jennifer","PROCEEDINGS OF THE 2023 CONFERENCE ON INNOVATION AND TECHNOLOGY IN
+   COMPUTER SCIENCE EDUCATION, ITICSE 2023, VOL 1",2023,"This paper discusses the potential for using generative AIs like ChatGPT
+   in software engineering education. Currently, discussions center around
+   potential threats emerging from student's use of ChatGPT. For instance,
+   generative AI will limit the usefulness of graded homework dramatically.
+   However, there exist potential opportunities as well. For example,
+   ChatGPT's ability to understand and generate human language allows
+   providing personalized feedback to students, and can thus accompany
+   current software engineering education approaches. This paper highlights
+   the potential for enhancing software engineering education. The
+   availability of generative AI will improve the individualization of
+   education approaches. In addition, we discuss the need to adapt software
+   engineering curricula to the changed profiles of software engineers.
+   Moreover, we point out why it is important to provide guidance for using
+   generative AI and, thus, integrate it in courses rather than accepting
+   the unsupervised use by students, which can negatively impact the
+   students' learning.",10.1145/3587102.3588815,
+"Integrating Conversational Large Language Models into Student Learning:
+   A Case Study of ChatGPT in Software Engineering Education","Liu, Yi","2024 IEEE FRONTIERS IN EDUCATION CONFERENCE, FIE",2024,"This innovative practice full paper describes a pilot study exploring
+   the integration of ChatGPT, a Conversational Large Language Model (LLM),
+   into the student learning process in software engineering education,
+   which emphasizes principles and methodologies in software development.
+   Focused on a software engineering class, the study examines ChatGPT as a
+   tool for problem clarification, modeling assistance, system design
+   feedback, and implementation support in a project on modeling,
+   designing, and implementing a solution using finite state processes and
+   concurrent programming in Java. A survey designed for the case study
+   collects insights into students' experiences with ChatGPT at different
+   stages of the project. Student feedback on using ChatGPT and their
+   performance on the project are analyzed to understand the impact of
+   conversational LLMs on learning outcomes and to address whether there is
+   room for improvement in enhancing the use of conversational LLMs in
+   software engineering education.",10.1109/FIE61694.2024.10893046,
+"Leveraging Open Source LLMs for Software Engineering Education and
+   Training","Pereira, Juanan and Lopez, Juan-Miguel and Garmendia, Xabier and Azanza,
+   Maider","2024 36TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING EDUCATION AND
+   TRAINING, CSEE \& T 2024",2024,"Generative AI, particularly Large Language Models (LLMs), presents
+   innovative opportunities to enhance software engineering education. Open
+   source LLMs such as LLaMA and Mistral leverage the potential of
+   generative AI offering distinct advantages over proprietary options
+   including transparency, customizability, collaboration, and cost
+   savings. This paper develops a catalog of LLM prompt examples tailored
+   for software engineering training, mapped to knowledge areas from the
+   Software Engineering Body of Knowledge (SWEBoK) framework. Example
+   prompts demonstrate LLMs' capabilities in eliciting requirements,
+   diagram generation, API simulation, effort estimation through
+   role-playing, and other areas. The methodology involves evaluating
+   prompt responses from ChatGPT, Mistral, and LLaMA on representative
+   tasks. Quantitative and qualitative analysis assesses quality,
+   usefulness, and correctness. Findings show ChatGPT and Mistral
+   outperforming LLaMA overall, but no model perfectly executes complex
+   interactions. We examine implications and challenges of integrating open
+   source LLMs into classrooms, emphasizing the need for oversight,
+   verification, and prompt design aligned with pedagogical objectives.",10.1109/CSEET62301.2024.10663055,
+"Exploring the Potential Use of Generative AI in Software Engineering
+   Education","Yabaku, Mounika and Pombo, Nuno and Ouhbi, Sofia","2024 IEEE 18TH INTERNATIONAL CONFERENCE ON APPLICATION OF INFORMATION
+   AND COMMUNICATION TECHNOLOGIES, AICT 2024",2024,"The integration of Generative AI into software engineering education
+   marks a transformative shift in teaching methodologies. This paper
+   explores its potential, highlighting the benefits of enhancing student
+   engagement, creativity, and efficiency while preparing them for industry
+   challenges. Through a comprehensive analysis of 13 popular generative AI
+   tools, we examine their roles in various software engineering tasks such
+   as requirements analysis, design, coding, debugging, and testing. This
+   paper contributes to the broader discourse on the future of software
+   engineering education by offering evidence-based recommendations for
+   leveraging generative AI to create adaptive and forward-thinking
+   instructional strategies.",10.1109/AICT61888.2024.10740416,
+"The Robots are Here: Navigating the Generative AI Revolution in
+   Computing Education","Prather, James and Denny, Paul and Leinonen, Juho and Becker, Brett A.
+   and Albluwi, Ibrahim and Craig, Michelle and Keuning, Hieke and Kiesler,
+   Natalie and Kohn, Tobias and Luxton-Reilly, Andrew and MacNeil, Stephen
+   and Petersen, Andrew and Pettit, Raymond and Reeves, Brent N. and
+   Savelka, Jaromir","PROCEEDINGS OF THE 2023 WORKING GROUP REPORTS ON INNOVATION AND
+   TECHNOLOGY IN COMPUTER SCIENCE EDUCATION, ITICSE-WGR 2023",2023,"Recent advancements in artificial intelligence (AI) and specifically
+   generative AI (GenAI) are threatening to fundamentally reshape computing
+   and society. Largely driven by large language models (LLMs), many tools
+   are now able to interpret and generate both natural language
+   instructions and source code. These capabilities have sparked urgent
+   questions in the computing education community around how educators
+   should adapt their pedagogy to address the challenges and to leverage
+   the opportunities presented by this new technology. In this working
+   group report, we undertake a comprehensive exploration of generative AI
+   in the context of computing education and make five significant
+   contributions. First, we provide a detailed review of the literature on
+   LLMs in computing education and synthesise findings from 71 primary
+   articles, nearly 80\% of which have been published in the first 8 months
+   of 2023. Second, we report the findings of a survey of computing
+   students and instructors from across 20 countries, capturing prevailing
+   attitudes towards GenAI/LLMs and their use in computing education
+   contexts. Third, to understand how pedagogy is already changing, we
+   offer insights collected from in-depth interviews with 22 computing
+   educators from five continents. Fourth, we use the ACM Code of Ethics to
+   frame a discussion of ethical issues raised by the use of large language
+   models in computing education, and we provide concrete advice for policy
+   makers, educators, and students. Finally, we benchmark the performance
+   of several current GenAI models/tools on various computing education
+   datasets, and highlight the extent to which the capabilities of current
+   models are rapidly improving.
+   There is little doubt that LLMs and other forms of GenAI will have a
+   profound impact on computing education over the coming years. However,
+   just as the technology will continue to improve, so will our collective
+   knowledge about how to leverage these new models and tools in
+   educational settings. We expect many important conversations around this
+   topic will emerge as the community explores how to provide more
+   effective, inclusive, and personalised learning experiences. Our aim is
+   that this report will serve as a focal point for both researchers and
+   practitioners who are exploring, adapting, using, and evaluating GenAI
+   and LLM-based tools in computing classrooms.",10.1145/3623762.3633499,
+"Programming education and learner motivation in the age of generative
+   AI: student and educator perspectives","Boguslawski, Samuel and Deer, Rowan and Dawson, Mark G.",INFORMATION AND LEARNING SCIENCES,2024,"PurposeProgramming education is being rapidly transformed by generative
+   AI tools and educators must determine how best to support students in
+   this context. This study aims to explore the experiences of programming
+   educators and students to inform future education
+   provision.Design/methodology/approachTwelve students and six members of
+   faculty in a small technology-focused university were interviewed.
+   Thematic analysis of the interview data was combined with data collected
+   from a survey of 44 students at the same university. Self-determination
+   theory was applied as an analytical framework.FindingsThree themes were
+   identified - bespoke learning, affect and support - that significantly
+   impact motivation and learning outcomes in programming education. It was
+   also found that students are already making extensive use of large
+   language models (LLMs). LLMs can significantly improve learner autonomy
+   and sense of competence by improving the options for bespoke learning;
+   fostering emotions that are conducive to engendering and maintaining
+   motivation; and inhibiting the negative affective states that discourage
+   learning. However, current LLMs cannot adequately provide or replace
+   social support, which is still a key factor in learner
+   motivation.Research limitations/implicationsIntegrating the use of LLMs
+   into curricula can improve learning motivation and outcomes. It can also
+   free educators from certain tasks, leaving them with more time and
+   capacity to focus their attention on developing social learning
+   opportunities to further enhance learner motivation.Originality/valueTo
+   the best of the authors' knowledge, this is the first attempt to explore
+   the relationship between motivation and LLM use in programming
+   education.",10.1108/ILS-10-2023-0163,
+Assessing ChatGPT's Proficiency in CS1-Level Problem Solving,"Sanchez, Mario and Herrera, Andrea","ADVANCES IN COMPUTING, CCC 2023",2024,"ChatGPT is an advanced large language model (LLM) capable of generating
+   code to solve specific problems when presented with carefully designed
+   prompts, among other capabilities. The existence of ChatGPT raises
+   signifi-cant questions regarding teaching practices and evaluations
+   within the dis-cipline. If ChatGPT can effectively solve exercises
+   assigned to students, it prompts a reevaluation of the skills and
+   knowledge that we teach and eval-uate. The objective of this paper is to
+   assess the proficiency of ChatGPT in solving exercises commonly
+   encountered in a CS1 course. This serves as an initial step in exploring
+   the implications of ChatGPT for computer science education. By examining
+   ChatGPT's performance and comparing it with real students, we aim to
+   gain insights into its capabilities and limitations. Our evaluation
+   encompasses a comprehensive examination of 125 problems specifically
+   designed for CS1-level learners. The experiment revealed that ChatGPT
+   successfully solved approximately 60\% of the provided prob-lems.
+   Subsequently, we conducted a detailed analysis of the characteristics of
+   the problems that ChatGPT could not solve, aiming to gain a deeper
+   understanding of the nuances that make them challenging for LLMs. This
+   study contributes to the ongoing discourse surrounding the integration
+   of AI-based tools, such as ChatGPT, in computer science education, and
+   high-lights the need for a reevaluation of educational objectives and
+   methods employed in traditional educational institutions.",10.1007/978-3-031-47372-2\_7,
+"Explore Public's Perspectives on Generative AI in Computer Science (CS)
+   Education: A Social Media Data Analysis","Oh, Sunggyeol and Cao, Yi and Katz, Andrew and Zhao, Jialu","2024 IEEE FRONTIERS IN EDUCATION CONFERENCE, FIE",2024,"This research-to-practice full paper aims to analyze the public's
+   comments on generative artificial intelligence (GAI) in computer science
+   (CS) education, by the BERT-based model and Large Language Model (LLM)
+   approaches to sentiment analysis and contextualize the results within
+   broader educational and technological landscapes. Artificial
+   intelligence (AI) has played a crucial role in advancing technical
+   development throughout many areas. Evidence points toward the likelihood
+   of major developmental breakthroughs unfolding soon in those sectors.
+   Education is one such area. While there is certainly a possibility for
+   hype and unfulfilled promises, the advent of available GAI platforms,
+   such as ChatGPT, has caused a surge of scholarly interest in the impact
+   of these technologies on CS education. Amid the growing debate, both the
+   potential benefits and concerns of GAI in this sector are increasingly
+   coming to the fore as people grapple with the tradeoffs associated with
+   these technologies when applied in education settings. One can imagine
+   the range of conversations around the topic, but that is difficult to
+   use as input for policymakers and administrators without a more concrete
+   understanding. To wit, there remain open questions about which benefits
+   and concerns people tend to focus on when discussing GAI in education.
+   This large-scale qualitative study addresses that gap by exploring the
+   public's perspectives on GAI in CS education. We engage in this work by
+   collecting and analyzing data from social media platforms, specifically
+   Reddit comments. The social media dataset was analyzed using machine
+   learning (ML) techniques to identify topics based on sentiment analysis.
+   The study's objective was to document and characterize the public's
+   perspectives concerning the general characteristics of GAI, its features
+   related to learning, and its usability in educational settings. Through
+   sentiment analysis using Large Language Models (LLM), the study revealed
+   an overall positive public perception toward using generative AI in CS
+   education, with over 57\% of comments being favorable, while also
+   identifying prominent topics of interest and concerns, such as the
+   potential benefits of personalized learning support and automated
+   grading, as well as issues like academic dishonesty, perpetuation of
+   biases, over-reliance on AI hindering critical thinking, displacement of
+   human instructors, and the need for updated curricula. The insights
+   gleaned from the analysis will be instrumental in computing educators
+   gaining a more profound comprehension of GAI's role in education and the
+   subsequent development of GAI-enriched curricula.",10.1109/FIE61694.2024.10893102,
+CS1-LLM: Integrating LLMs into CS1 Instruction,"Vadaparty, Annapurna and Zingaro, Daniel and Smith, David H. and Padala,
+   Mounika and Alvarado, Christine and Benario, Jamie Gorson and Porter,
+   Leo","PROCEEDINGS OF THE 2024 CONFERENCE INNOVATION AND TECHNOLOGY IN COMPUTER
+   SCIENCE EDUCATION, VOL 1, ITICSE 2024",2024,"The recent, widespread availability of Large Language Models (LLMs) like
+   ChatGPT and GitHub Copilot may impact introductory programming courses
+   (CS1) both in terms of what should be taught and how to teach it.
+   Indeed, recent research has shown that LLMs are capable of solving the
+   majority of the assignments and exams we previously used in CS1. In
+   addition, professional software engineers are often using these tools,
+   raising the question of whether we should be training our students in
+   their use as well. This experience report describes a CS1 course at a
+   large research-intensive university that fully embraces the use of LLMs
+   from the beginning of the course. To incorporate the LLMs, the course
+   was intentionally altered to reduce emphasis on syntax and writing code
+   from scratch. Instead, the course now emphasizes skills needed to
+   successfully produce software with an LLM. This includes explaining
+   code, testing code, and decomposing large problems into small functions
+   that are solvable by an LLM. In addition to frequent, formative
+   assessments of these skills, students were given three large, open-ended
+   projects in three separate domains (data science, image processing, and
+   game design) that allowed them to showcase their creativity in topics of
+   their choosing. In an end-of-term survey, students reported that they
+   appreciated learning with the assistance of the LLM and that they
+   interacted with the LLM in a variety of ways when writing code. We
+   provide lessons learned for instructors who may wish to incorporate LLMs
+   into their course.",10.1145/3649217.3653584,
+"Open Source Language Models Can Provide Feedback: Evaluating LLMs'
+   Ability to Help Students Using GPT-4-As-A-Judge","Koutcheme, Charles and Dainese, Nicola and Sarsa, Sami and Hellas, Arto
+   and Leinonen, Juho and Denny, Paul","PROCEEDINGS OF THE 2024 CONFERENCE INNOVATION AND TECHNOLOGY IN COMPUTER
+   SCIENCE EDUCATION, VOL 1, ITICSE 2024",2024,"Large language models (LLMs) have shown great potential for the
+   automatic generation of feedback in a wide range of computing contexts.
+   However, concerns have been voiced around the privacy and ethical
+   implications of sending student work to proprietary models. This has
+   sparked considerable interest in the use of open source LLMs in
+   education, but the quality of the feedback that such open models can
+   produce remains understudied. This is a concern as providing flawed or
+   misleading generated feedback could be detrimental to student learning.
+   Inspired by recent work that has utilised very powerful LLMs, such as
+   GPT-4, to evaluate the outputs produced by less powerful models, we
+   conduct an automated analysis of the quality of the feedback produced by
+   several open source models using a dataset from an introductory
+   programming course. First, we investigate the viability of employing
+   GPT-4 as an automated evaluator by comparing its evaluations with those
+   of a human expert. We observe that GPT-4 demonstrates a bias toward
+   positively rating feedback while exhibiting moderate agreement with
+   human raters, showcasing its potential as a feedback evaluator. Second,
+   we explore the quality of feedback generated by several leading
+   open-source LLMs by using GPT-4 to evaluate the feedback. We find that
+   some models offer competitive performance with popular proprietary LLMs,
+   such as ChatGPT, indicating opportunities for their responsible use in
+   educational settings.",10.1145/3649217.3653612,
+"A Comparative Study of AI-Generated (GPT-4) and Human-crafted MCQs in
+   Programming Education","Doughty, Jacob and Wan, Zipiao and Bompelli, Anishka and Qayum, Jubahed
+   and Wang, Taozhi and Zhang, Juran and Zheng, Yujia and Doyle, Aidan and
+   Sridhar, Pragnya and Agarwal, Arav and Bogart, Christopher and Keylor,
+   Eric and Kultur, Can and Savelka, Jaromir and Sakr, Majd","PROCEEDINGS OF THE 26TH AUSTRALASIAN COMPUTING EDUCATION CONFERENCE, ACE
+   2024",2024,"There is a constant need for educators to develop and maintain effective
+   up-to-date assessments. While there is a growing body of research in
+   computing education on utilizing large language models (LLMs) in
+   generation and engagement with coding exercises, the use of LLMs for
+   generating programming MCQs has not been extensively explored. We
+   analyzed the capability of GPT-4 to produce multiple-choice questions
+   (MCQs) aligned with specific learning objectives (LOs) from Python
+   programming classes in higher education. Specifically, we developed an
+   LLM-powered (GPT-4) system for generation of MCQs from high-level course
+   context and module-level LOs. We evaluated 651 LLM-generated and 449
+   human-crafted MCQs aligned to 246 LOs from 6 Python courses. We found
+   that GPT-4 was capable of producing MCQs with clear language, a single
+   correct choice, and high-quality distractors. We also observed that the
+   generated MCQs appeared to be wellaligned with the LOs. Our findings can
+   be leveraged by educators wishing to take advantage of the
+   state-of-the-art generative models to support MCQ authoring efforts.",10.1145/3636243.3636256,
+"Risk management strategy for generative AI in computing education: how
+   to handle the strengths, weaknesses, opportunities, and threats?","Humble, Niklas",INTERNATIONAL JOURNAL OF EDUCATIONAL TECHNOLOGY IN HIGHER EDUCATION,2024,"The idea of Artificial intelligence (AI) has a long history in both
+   research and fiction and has been applied in educational settings since
+   the 1970s. However, the topic of AI underwent a huge increase of
+   interest with the release of ChatGPT in late 2022, and more people were
+   talking about generative AI (GenAI or GAI). According to some estimates,
+   the number of publications on generative AI increased with 2269.49\%
+   between 2022 and 2023, and the increase was even higher when related to
+   computing education. The aim of this study is to investigate the
+   potential strengths, weaknesses, opportunities, and threats of
+   generative AI in computing education, as highlighted by research
+   published after the release of ChatGPT. The study applied a scoping
+   literature review approach with a three-step process for identifying and
+   including a total of 129 relevant research papers, published in 2023 and
+   2024, through the Web of Science and Scopus databases. Included papers
+   were then analyzed with a theoretical thematic analysis, supported by
+   the SWOT analysis framework, to identify themes of strengths,
+   weaknesses, opportunities, and threats with generative AI for computing
+   education. A total of 19 themes were identified through the analysis.
+   Findings of the study have both theoretical and practical implications
+   for computing education specifically, and higher education in general.
+   Findings highlights several challenges posed by generative AI, such as
+   potential biases, overreliance, and loss of skills; but also several
+   possibilities, such as increasing motivation, educational
+   transformation, and supporting teaching and learning. The study expands
+   the traditional SWOT analysis, by providing a risk management strategy
+   for handling the strengths, weaknesses, opportunities, and threats of
+   generative AI.",10.1186/s41239-024-00494-x,
+"A Bibliometric Exposition and Review on Leveraging LLMs for Programming
+   Education","Amos, Joanah Pwanedo and Amodu, Oluwatosin Ahmed and Mahmood, Raja
+   Azlina Raja and Abdulqudus, Akanbi Bolakale and Zakaria, Anies Faziehan
+   and Iyanda, Abimbola Rhoda and Bukar, Umar Ali and Mohd Hanapi, Zurina",IEEE ACCESS,2025,"The world is experiencing an AI revolution, with large language models
+   (LLMs) transforming various industries, including education. Academics
+   are striving to harness the potential of LLMs while also contending with
+   their risks. This paper presents the first bibliometric analysis focused
+   on LLM research in programming education, identifying leading countries,
+   authors, and institutions while analyzing key terms and popular keywords
+   in this field. Additionally, it highlights influential studies on topics
+   such as introductory programming, computer science, computing,
+   programming education, and prompt engineering, discussing key insights
+   from these works. Findings indicate that LLMs could play a significant
+   role in programming education and may be integrated into computer
+   science curricula. However, careful consideration is needed to ensure
+   their benefits outweigh their risks across various use cases. This study
+   specifically examines ChatGPT as a representative LLM, exploring its
+   benefits and limitations as both a learning aid for students and a
+   support tool for professionals. It also evaluates the quality of
+   ChatGPT-generated code and its effectiveness in simplifying programming
+   concepts for beginners. Furthermore, the ethical implications of
+   increasing reliance on LLMs for programming tasks, including concerns
+   about dependency, plagiarism, and potential effects on critical
+   thinking, are addressed. By contributing to the ongoing discourse on
+   integrating AI tools like ChatGPT in programming education, this
+   research emphasizes the importance of responsible and ethical usage to
+   maximize benefits for students, educators, and the broader educational
+   community.",10.1109/ACCESS.2025.3554627,
+"Cognitive dissonance in programming education: A qualitative exploration
+   of the impact of generative AI on application-directed learning","Dawson, Mark G. and Deer, Rowan and Boguslawski, Samuel",COMPUTERS IN HUMAN BEHAVIOR REPORTS,2025,"Generative AI tools, powered by Large Language Models (LLMs), are
+   already being extensively used by students to support their learning and
+   it is important that educators understand what this might mean for
+   higher education practice. In this study, two researchers external to
+   the faculty teaching team conducted in-depth interviews with 12 students
+   in a small European university of applied sciences who have recently
+   undertaken programming learning as part of their undergraduate studies.
+   The aim was to explore how these students were using LLMs to support
+   their learning and their perceptions of its value as a learning tool. A
+   thematic analysis of the resulting qualitative data revealed trends in
+   the perceived advantages and disadvantages of using LLMs, as well as
+   different levels of LLM usage, with more cautious use associated with a
+   `meaning-directed' approach to learning (learning pattern) and more
+   enthusiastic and unrestrained use with `application-directed' patterns
+   of study. A tension was observed between some application-directed
+   learners' high use of LLMs and their recognition that this is not
+   optimal for effective learning. The authors argue that Cognitive
+   Dissonance Theory (CDT) can explain how this dissonance may motivate
+   learners toward a dissonance-reducing attitude or behavior change. The
+   conclusion reflects on the implications for teaching practice and offers
+   some recommendations for how educators can increase metacognition,
+   instrumentalize CDT to increase self-regulation, and facilitate
+   meaning-directed learning patterns in the age of generative AI.",10.1016/j.chbr.2025.100724,
+"Exploring the Adoption of Generative AI Tools in Computer Science
+   Education: A Student Survey","Schefer-Wenzl, Sigrid and Vogl, Christoph and Peiris, Sahani and
+   Miladinovic, Igor","PROCEEDINGS OF THE 16TH INTERNATIONAL CONFERENCE ON EDUCATION TECHNOLOGY
+   AND COMPUTERS, ICETC 2024",2024,"The integration of generative AI tools into education has the potential
+   to revolutionize learning experiences, particularly in computer science.
+   This paper explores the adoption and utilization of generative AI tools
+   among computer science students at the University of Applied Sciences
+   Campus Vienna in Austria through a comprehensive survey. The study aims
+   to understand the extent to which AI tools like ChatGPT are integrated
+   into students' academic routines, their perceptions of these tools, and
+   the challenges and opportunities they present. The survey results
+   indicate a high level of acceptance and frequent use of AI tools for
+   tasks such as programming, exam preparation, and generating simplified
+   explanations. However, concerns about the accuracy of AI-generated
+   content and the potential impact on critical thinking skills were also
+   highlighted. The findings underscore the need for clear institutional
+   guidelines and ethical considerations in the use of AI tools in
+   education. This paper contributes to the growing body of literature on
+   AI in education and provides insights for educators and policymakers to
+   enhance the responsible integration of AI technologies in computer
+   science curricula.",10.1145/3702163.3702188,
+"The Effects of Generative AI on Computing Students' Help-Seeking
+   Preferences","Hou, Irene and Mettille, Sophia and Li, Zhuo and Man, Owen and Zastudil,
+   Cynthia and MacNeil, Stephen","PROCEEDINGS OF THE 26TH AUSTRALASIAN COMPUTING EDUCATION CONFERENCE, ACE
+   2024",2024,"Help-seeking is a critical way that students learn new concepts, acquire
+   new skills, and get unstuck when problem-solving in their computing
+   courses. The recent proliferation of generative AI tools, such as
+   ChatGPT, offers students a new source of help that is always available
+   on-demand. However, it is unclear how this new resource compares to
+   existing help-seeking resources along dimensions of perceived quality,
+   latency, and trustworthiness. In this paper, we investigate the
+   help-seeking preferences and experiences of computing students now that
+   generative AI tools are available to them. We collected survey data
+   (n=47) and conducted interviews (n=8) with computing students. Our
+   results suggest that although these models are being rapidly adopted,
+   they have not yet fully eclipsed traditional help resources. The
+   help-seeking resources that students rely on continue to vary depending
+   on the task and other factors. Finally, we observed preliminary evidence
+   about how help-seeking with generative AI is a skill that needs to be
+   developed, with disproportionate benefits for those who are better able
+   to harness the capabilities of LLMs. We discuss potential implications
+   for integrating generative AI into computing classrooms and the future
+   of help-seeking in the era of generative AI.",10.1145/3636243.3636248,
+Generative AI in CS Education: Literature Review through a SWOT Lens,"Roberts, Jordan and Mohamed, Abdallah","PROCEEDINGS OF THE 26TH WESTERN CANADIAN CONFERENCE ON COMPUTING
+   EDUCATION, WCCCE 2024",2024,"The rapid growth of generative artificial intelligence (AI) models
+   introduced challenges for educators, students and administrators across
+   the academic sphere related to how to manage and regulate these tools.
+   While some oppose their use, many researchers have begun to approach the
+   topic of educational AI use from a different perspective. Despite being
+   in its early stages; this field of research has produced notable
+   insights into the capabilities and limitations of models like ChatGPT.
+   This paper utilizes a SWOT analysis frame-work to analyze and
+   consolidate existing literature, with a specific focus on Computer
+   Science education. Through the analysis of this literature, we have
+   created a set of use cases and guidelines to aid in the future
+   development of strategies and tools within this field. Our findings
+   indicate that while some concerns are valid, such as AI's ability to
+   generate plagiarized work, we identified several promising avenues and
+   opportunities for careful integration of this technology into education.",10.1145/3660650.3660657,
+"Generative AI in Model-Driven Software Engineering Education: Friend or
+   Foe?","Morales, Sergio and Planas, Elena and Clariso, Robert and Gogolla,
+   Martin","2023 ACM/IEEE INTERNATIONAL CONFERENCE ON MODEL DRIVEN ENGINEERING
+   LANGUAGES AND SYSTEMS COMPANION, MODELS-C",2023,"The availability and effectiveness of generative AI tools challenge the
+   currently established methods for learning, teaching and assessment. In
+   this paper, we discuss their potential impact for model-driven software
+   engineering education, both from the point of view of educators and
+   students. The discussion highlights several opportunities and risks,
+   which support the need of a critical perspective in the application of
+   these tools.",10.1109/MODELS-C59198.2023.00034,
+"Programming education with ChatGPT: outcomes for beginners and
+   intermediate students","Suh, Jihae and Lee, Kyuhan and Lee, Jaehwan",EDUCATION AND INFORMATION TECHNOLOGIES,2025,"Artificial Intelligence (AI) has rapidly emerged as a powerful tool with
+   the potential to enhance learning environments. However, effective use
+   of new technologies in education requires a good understanding of the
+   technology and good design for its use. Generative AI such as ChatGPT
+   requires particularly well-designed instructions due to its ease of use
+   in asking and answering questions using natural language. This study
+   investigates the effectiveness of ChatGPT in assisting the learning
+   process of university students enrolled in Python programming courses.
+   The primary question addressed is how differently the use of ChatGPT
+   affects two groups at different levels of programming
+   proficiency-beginners and intermediate. The study compares the impact of
+   ChatGPT on academic performance between these two groups. The results
+   show that for beginners, ChatGPT did not significantly contribute to
+   improved learning outcomes. In addition, a survey was conducted to
+   explore students'perceptions of the benefits and challenges of using
+   ChatGPT, which revealed differences in responses between the two groups
+   of learners. This research provides valuable insights into the potential
+   applications of AI tools in educational settings, particularly in the
+   context of programming education.",10.1007/s10639-025-13542-4,
+"Teaching and learning computer programming using ChatGPT: A rapid review
+   of literature amid the rise of generative AI technologies","Garcia, Manuel B.",EDUCATION AND INFORMATION TECHNOLOGIES,2025,"The emergence of generative AI tools like ChatGPT has sparked
+   investigations into their applications in teaching and learning. In
+   computer programming education, efforts are underway to explore how this
+   tool can enhance instructional practices. Despite the growing
+   literature, there is a lack of synthesis on its use in this field. This
+   rapid review addresses this gap by examining the current literature to
+   outline research trends, assess how it supports teaching and learning
+   processes, and discern the issues that emerge from its application in
+   programming instruction. A total of 107 documents disseminated across 81
+   distinct sources and authored by 394 contributors were identified. The
+   review adopted a broad and inclusive approach, selecting literature
+   based on relevance to ChatGPT's application in programming education and
+   encompassing studies from diverse settings and methodologies. Results
+   highlight applications such as personalized tutoring, knowledge
+   reinforcement, instructional material creation, source code generation,
+   immediate feedback, and assessment support. However, its use also
+   introduces challenges such as academic dishonesty, ethical dilemmas,
+   diminished critical thinking, overdependence on ChatGPT, and various
+   technical limitations. Considering these findings, a balanced approach
+   to the utilization of ChatGPT in programming education is essential.
+   Implications and recommendations have been provided to guide
+   policymakers, curriculum designers, teachers, and students in harnessing
+   the benefits of this technology while mitigating potential challenges.",10.1007/s10639-025-13452-5,
+"PerVRML: ChatGPT-Driven Personalized VR Environments for Machine
+   Learning Education","Gao, Hong and Xie, Yiyang and Kasneci, Enkelejda",INTERNATIONAL JOURNAL OF HUMAN-COMPUTER INTERACTION,2025,"The advent of large language models (LLMs) such as ChatGPT has
+   demonstrated significant potential for advancing educational
+   technologies. Recently, growing interest has emerged in integrating
+   ChatGPT with virtual reality (VR) to provide interactive and dynamic
+   learning environments. This study explores the effectiveness of
+   ChatGTP-driven VR in facilitating machine learning education through
+   PerVRML. PerVRML incorporates a ChatGPT-powered avatar that provides
+   real-time assistance and uses LLMs to personalize learning paths based
+   on various sensor data from VR. A between-subjects design was employed
+   to compare two learning modes: personalized and non-personalized.
+   Quantitative data were collected from assessments, user experience
+   surveys, and interaction metrics. The results indicate that while both
+   learning modes supported learning effectively, ChatGPT-powered
+   personalization significantly improved learning outcomes and had
+   distinct impacts on user feedback. These findings underscore the
+   potential of ChatGPT-enhanced VR to deliver adaptive and personalized
+   educational experiences.",10.1080/10447318.2025.2504188,
+"Not the Silver Bullet: LLM-enhanced Programming Error Messages are
+   Ineffective in Practice","Santos, Eddie Antonio and Becker, Brett A.","PROCEEDINGS OF THE 2024 CONFERENCE ON UNITED KINGDOM \& IRELAND
+   COMPUTING EDUCATION RESEARCH, UKICER 2024",2024,"The sudden emergence of large language models (LLMs) such as ChatGPT has
+   had a disruptive impact throughout the computing education community.
+   LLMs have been shown to excel at producing correct code to CS1 and CS2
+   problems, and can even act as friendly assistants to students learning
+   how to code. Recent work shows that LLMs demonstrate unequivocally
+   superior results in being able to explain and resolve compiler error
+   messages-for decades, one of the most frustrating parts of learning how
+   to code. However, LLM-generated error message explanations have only
+   been assessed by expert programmers in artificial conditions. This work
+   sought to understand how novice programmers resolve programming error
+   messages (PEMs) in a more realistic scenario. We ran a within-subjects
+   study with n = 106 participants in which students were tasked to fix six
+   buggy C programs. For each program, participants were randomly assigned
+   to fix the problem using either a stock compiler error message, an
+   expert-handwritten error message, or an error message explanation
+   generated by GPT-4. Despite promising evidence on synthetic benchmarks,
+   we found that GPT-4 generated error messages outperformed conventional
+   compiler error messages in only 1 of the 6 tasks, measured by students'
+   time-to-fix each problem. Handwritten explanations still outperform LLM
+   and conventional error messages, both on objective and subjective
+   measures.",10.1145/3689535.3689554,
+"Integrating Generative AI in Software Engineering Education: Practical
+   Strategies","Li, Yishu and Keung, Jacky and Ma, Xiaoxue","2024 INTERNATIONAL SYMPOSIUM ON EDUCATIONAL TECHNOLOGY, ISET",2024,"The transformative influence of generative artificial intelligence (AI),
+   notably large language models (LLMs), has significantly reshaped the
+   software engineering (SE) landscape, impacting various aspects of
+   software development within industry and academia. The imperative to
+   integrate generative AI into educational programs arises from the
+   necessity to furnish graduates with contemporary methodologies that
+   enhance software quality and streamline development processes.
+   Nevertheless, a research gap exists concerning the systematic
+   integration of established SE education guidelines with specific course
+   contexts to strengthen SE education through incorporating generative AI.
+   In response to this gap, our study presents a vision for integrating
+   generative AI into SE education, with a particular emphasis on practical
+   integration strategies aimed at endowing students with essential
+   competencies tailored for contemporary software development. Aligning
+   our vision with the knowledge domains within SE education, we delineate
+   its application across specific areas such as code generation, auto test
+   case completion, and others. The overall objective of these proposed
+   initiatives is to furnish students in SE with an updated and immersive
+   learning experience, thereby addressing the evolving demands of the
+   field.",10.1109/ISET61814.2024.00019,
+"Student Perspectives on Using a Large Language Model (LLM) for an
+   Assignment on Professional Ethics","Grande, Virginia and Kiesler, Natalie and Francisco, Maria Andreina R.","PROCEEDINGS OF THE 2024 CONFERENCE INNOVATION AND TECHNOLOGY IN COMPUTER
+   SCIENCE EDUCATION, VOL 1, ITICSE 2024",2024,"The advent of Large Language Models (LLMs) started a serious discussion
+   among educators on how LLMs would affect, e.g., curricula, assessments,
+   and students' competencies. Generative AI and LLMs also raised ethical
+   questions and concerns for computing educators and professionals.
+   This experience report presents an assignment within a course on
+   professional competencies, including some related to ethics, that
+   computing master's students need in their careers. For the assignment,
+   student groups discussed the ethical process by Lennerfors et al. by
+   analyzing a case: a fictional researcher considers whether to attend the
+   real CHI 2024 conference in Hawaii. The tasks were (1) to participate in
+   in-class discussions on the case, (2) to use an LLM of their choice as a
+   discussion partner for said case, and (3) to document both discussions,
+   reflecting on their use of the LLM.
+   Students reported positive experiences with the LLM as a way to increase
+   their knowledge and understanding, although some identified limitations.
+   The LLM provided a wider set of options for action in the studied case,
+   including unfeasible ones. The LLM would not select a course of action,
+   so students had to choose themselves, which they saw as coherent.
+   From the educators' perspective, there is a need for more instruction
+   for students using LLMs: some students did not perceive the tools as
+   such but rather as an authoritative knowledge base. Therefore, this work
+   has implications for educators considering the use of LLMs as discussion
+   partners or tools to practice critical thinking, especially in computing
+   ethics education.",10.1145/3649217.3653624,
+"Does ChatGPT Help With Introductory Programming? An Experiment of
+   Students Using ChatGPT in CS1","Xue, Yuankai and Chen, Hanlin and Bai, Gina R. and Tairas, Robert and
+   Huang, Yu","2024 ACM/IEEE 44TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING:
+   SOFTWARE ENGINEERING EDUCATION AND TRAINING, ICSE-SEET 2024",2024,"Generative AI, notably ChatGPT, has garnered attention in computer
+   science education. This paper presents a controlled experiment that
+   explores ChatGPT's role in CS1 in a classroom setting. Specifically, we
+   aim to investigate the impact of ChatGPT on student learning outcomes
+   and their behaviors when working on programming assignments.
+   Participants were tasked with creating a UML diagram and subsequently
+   implementing its design through programming, followed by a closed-book
+   post-evaluation and a post-survey. All the participants were required to
+   screen-record the whole process. In total, 56 participants were
+   recruited, with 48 successful screen recordings. Participants in the
+   Experimental Group can access ChatGPT 3.5 and other online resources,
+   such as Google and Stack Overflow when creating the UML diagram and
+   programming; however, participants in the Control Group can access all
+   online resources except for ChatGPT (i.e., the only design variable is
+   the access to ChatGPT). Finally, we measured and analyzed participants'
+   learning outcomes through their UML diagram, programming, and
+   post-evaluation scores. We also analyzed the time participants took to
+   complete the tasks and their interactions with ChatGPT and other
+   resources from the screen recordings. After finishing the tasks, student
+   participants also provided their perceptions of using ChatGPT in CS1
+   through a post-survey. With rigorous quantitative and qualitative
+   analysis, we found that (1) using ChatGPT does not present a significant
+   impact on students' learning performance in the CS1 assignment-style
+   tasks; (2) once using ChatGPT, students' tendency to explore other
+   traditional educational resources is largely reduced (though available)
+   and they tend to rely solely on ChatGPT, and this reliance on ChatGPT
+   did not guarantee enhanced learning performance; (3) the majority of
+   students hold neutral views on ChatGPT's role in CS1 programming but
+   most of them raised concerns about its potential ethical issues and
+   inconsistent performance across different tasks.
+   We hope this study can help educators and students better understand the
+   impact of ChatGPT in CS1 and inspire future work to provide proper
+   guidelines for using ChatGPT in introductory programming classes.",10.1145/3639474.3640076,
+Bridging Novice Programmers and LLMs with Interactivity,"Yeh, Thomas Y. and Tran, Karena and Gao, Ge and Yu, Tyler and Fong, Wai
+   On and Chen, Tzu-Yi","PROCEEDINGS OF THE 56TH ACM TECHNICAL SYMPOSIUM ON COMPUTER SCIENCE
+   EDUCATION, SIGCSE TS 2025, VOL 1",2025,"While Large Language Models (LLMs) enable experienced programmers to
+   increase their productivity, LLMs' impact on learning and productivity
+   for novices is currently unclear. Recent work showed novice programmers
+   struggle with prompting LLMs for code generation and suggested that the
+   use of LLMs in CS education could exacerbate existing equity issues.
+   Educators are now faced with the difficult question of whether and when
+   to incorporate the use of LLMs into the CS curriculum without adversely
+   impacting student learning and equity. To address these concerns, we
+   study the effects of using an interactive LLM on code generation with
+   novice programmers. We find that using our interactive LLM improves the
+   accuracy of code generation over the baseline LLM. Additionally, after
+   using the interactive LLM, novices write improved prompts even when
+   using the baseline LLM. Based on our findings, we plan to create iGPTs,
+   a set of customized, interactive LLMs spanning CS education learning
+   goals as templates to facilitate LLM integration for improving student
+   learning and retention.",10.1145/3641554.3701867,
+"Using Peer Assessment Leveraging Large Language Models in Software
+   Engineering Education","Fiore, Marco and Mongiello, Marina",INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING,2025,"This paper explores the integration of generative AI and large language
+   models into the realm of software engineering education and training,
+   with a specific focus on the transformation of traditional peer
+   assessment methodologies. The motivation stems from the growing demand
+   for innovative educational techniques that can effectively engage and
+   empower learners in mastering Software Engineering principles. The
+   proposed approach involves presenting students with modeling exercises
+   solved by ChatGPT, prompting them to critically evaluate and provide
+   constructive feedback on the generated solutions. By engaging students
+   in a dialogue with the AI model, we aim to foster a dynamic learning
+   environment where learners can articulate their considerations and
+   insights, thereby enhancing their comprehension of software engineering
+   principles, critical thinking and self evaluation skills. Preliminary
+   results from pilot implementations indicate promising outcomes,
+   suggesting that this approach not only enhances the quality of peer
+   feedback but also contributes to a more interactive and engaging
+   educational experience.",10.1142/S0218194024500359,
+"Detecting LLM-Generated Text in Computing Education: Comparative Study
+   for ChatGPT Cases","Orenstrakh, Michael Sheinman and Karnalim, Oscar and Anibal Suarez,
+   Carlos and Liut, Michael","2024 IEEE 48TH ANNUAL COMPUTERS, SOFTWARE, AND APPLICATIONS CONFERENCE,
+   COMPSAC 2024",2024,"Due to the recent improvements and wide availability of Large Language
+   Models (LLMs), they have posed a serious threat to academic integrity in
+   education. Modern LLM-generated text detectors attempt to combat the
+   problem by offering educators with services to assess whether some text
+   is LLM-generated. In this work, we have collected 124 submissions from
+   computer science students before the creation of ChatGPT. We then
+   generated 40 ChatGPT submissions. We used this data to evaluate eight
+   publicly-available LLM-generated text detectors through the measures of
+   accuracy, false positives, and resilience. Our results find that
+   CopyLeaks is the most accurate LLM-generated text detector, GPTKit is
+   the best LLM-generated text detector to reduce false positives, and GLTR
+   is the most resilient LLM-generated text detector. We note that all
+   LLM-generated text detectors are less accurate with code, other
+   languages (aside from English), and after the use of paraphrasing tools.",10.1109/COMPSAC61105.2024.00027,
+"A Self-Regulated Learning Framework using Generative AI and its
+   Application in CS Educational Intervention Design","Prasad, Prajish and Sane, Aamod","PROCEEDINGS OF THE 55TH ACM TECHNICAL SYMPOSIUM ON COMPUTER SCIENCE
+   EDUCATION, SIGCSE 2024, VOL. 1",2024,"Self-regulation refers to the ability to plan, monitor, control and
+   reflect on one's problem-solving process. Prior research has shown that
+   self-regulated learning (SRL) strategies help improve novice performance
+   in solving programming problems. However, with the advent of LLM tools
+   like ChatGPT, novices can generate fairly accurate code by just
+   providing the problem prompt, and hence may forego applying essential
+   self-regulation strategies such as planning and reflection to solve the
+   problem.
+   In this position paper, we discuss challenges and opportunities that
+   generative AI technologies pose for novices' self-regulation strategies
+   in the context of programming problem solving. We believe that the key
+   challenge facing educators is that such technologies may hamper novices'
+   ability to regulate their programming problem solving process.
+   On the other hand, these technologies also open up the possibility to
+   design new interventions that promote better SRL strategies in learners.
+   We draw on generic and domain-specific self-regulated learning theories
+   as the basis of our work, and propose an SRL framework that incorporates
+   use of generative AI tools in programming problem solving. We illustrate
+   how the proposed framework guides exploration of the design space of
+   interventions that integrate generative AI in CS education.",10.1145/3626252.3630828,
+"A comparative study of student perceptions on generative AI in
+   programming education across Sub-Saharan Africa","Oyelere, Solomon Sunday and Aruleba, Kehinde",COMPUTERS AND EDUCATION OPEN,2025,"In today's era of technological evolution, programming education is
+   crucial for shaping the future workforce and fostering innovation.
+   However, access to quality computer science education remains a
+   significant challenge with Sub-Saharan Africa nations experiencing a
+   pronounced digital divide. Despite growing interest in technology, these
+   countries struggle with unequal access to educational resources.
+   AI-driven tools like ChatGPT, Codey, and GitHub Copilot offer
+   personalized learning experiences that could democratize access to
+   knowledge and reshape programming education. This quantitative study
+   examines the impact of these AI tools on fostering inclusive education
+   in Kenya, Nigeria, and South Africa. It involves 322 university
+   students, using purposive sampling and online questionnaires. Various
+   quantitative analyzes, including descriptive statistics, country-wise
+   comparisons, one-way ANOVA, Kruskal-Wallis tests, and correlation
+   analysis, were conducted. The study reveals students' motivations for
+   programming, their attitudes towards AI-driven educational tools, and
+   the perceived impact on equity, diversity, and inclusion. Significant
+   variations were found in attitudes based on educational level and
+   country of residence, highlighting the need for tailored strategies to
+   enhance the inclusivity and effectiveness of AI-driven programming
+   education tools.",10.1016/j.caeo.2025.100245,
+"Using Generative AI to Create User Stories in the Software Engineering
+   Classroom","Brockenbrough, Allan and Salinas, Dominic","2024 36TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING EDUCATION AND
+   TRAINING, CSEE \& T 2024",2024,"A user story is used in agile methodology to describe functionality that
+   is valuable to the user and may include criteria to determine if the
+   developer has completed the story. This study investigates undergraduate
+   computer science students using ChatGPT to create user stories from user
+   feedback. The study compares aspects of the user stories created by
+   students using ChatGPT with those not using ChatGPT. Are user stories
+   written by students with AI assistance of higher or lower quality? How
+   does the time spent writing the user story change with the use of
+   ChatGPT? We evaluate student user stories using a modified INVEST story
+   rating system. Evaluated user story properties include structure,
+   independence, value, testability, and grammar. The results show that
+   ChatGPT-assisted students produce higher-quality user stories than
+   unassisted students. However, using ChatGPT to write user stories does
+   not guarantee high quality. ChatGPT can fail to recognize dependencies
+   between user feedback and create structurally incorrect user stories. We
+   see a need for students to be trained in effectively using this tool by
+   carefully examining AI-assisted output and making revisions.",10.1109/CSEET62301.2024.10662994,
+"AI-assisted Learning with ChatGPT and Large Language Models:
+   Implications for Higher Education","Laato, Samuli and Morschheuser, Benedikt and Hamari, Juho and Bjorne,
+   Jari","2023 IEEE INTERNATIONAL CONFERENCE ON ADVANCED LEARNING TECHNOLOGIES,
+   ICALT",2023,"The recent progress in generative AI models, particularly large language
+   models (LLMs), has brought about a transformation in the field of
+   education. Conversational LLM services, such as Google's Bard and
+   OpenAI's ChatGPT, offer students access to many abilities such as
+   summarization and generation of text and code, and on-demand replies to
+   questions on expert topics. In this paper, we observe ChatGPT to explore
+   how LLM services impact learning and instruction in higher education.
+   First, we mapped the capabilities of the system by reviewing the grey
+   literature on ChatGPT and using the system ourselves for two months.
+   Second, we selected a Bachelor level computer science curriculum from a
+   Finnish university, and examined the impact of ChatGPT on the offered
+   courses. As an outcome of this study, we highlight 13 implications for
+   students' learning in higher education, and discuss the contemporary
+   future of AI-assisted learning in universities and beyond.",10.1109/ICALT58122.2023.00072,
+"Enriching Python Programming Education With Generative AI: Leveraging
+   Large Language Models for Personalized Support and Interactive Learning","Vemula, Srikanth","2024 IEEE FRONTIERS IN EDUCATION CONFERENCE, FIE",2024,"This innovative practice full paper describes the exploration of the
+   transformative potential of Generative Artificial Intelligence (AI) and
+   Large Language Models (LLMs) in Python programming education. A Python
+   Educational Support Assistant (PESA-8B-FT) was introduced, an
+   LLM-powered virtual assistant designed to provide personalized
+   instruction, foster interactive learning, and deliver immediate feedback
+   on programming tasks. The growing demand for skilled Python programmers
+   necessitates flexible and effective educational frameworks. PESA-8B-FT
+   addresses this need by offering 24/7 availability, accommodating diverse
+   learning styles and schedules, and providing real-time support
+   regardless of geographical constraints. The study demonstrates
+   PESA-8B-FT's significant impact on Python programming education. The
+   model achieved a perplexity score of 18.82, outperforming competing
+   models, and received positive feedback from 90\% of participants. These
+   results highlight PESA-8B-FT's potential to enhance learning outcomes,
+   complement traditional teaching methods, and alleviate the instructional
+   burden on educators. By leveraging advanced LLM capabilities, this
+   research contributes to the development of more accessible,
+   personalized, and effective programming education methodologies.",10.1109/FIE61694.2024.10893561,
+"Cheaters or AI-Enhanced Learners: Consequences of ChatGPT for
+   Programming Education","Humble, Niklas and Boustedt, Jonas and Holmgren, Hanna and Milutinovic,
+   Goran and Seipel, Stefan and Ostberg, Ann-Sofie",ELECTRONIC JOURNAL OF E-LEARNING,2024,,10.34190/ejel.21.5.3154,
+"Guidelines for Effective Use of ChatGPT in Introductory Programming
+   Education","Ramabu, Tlou and Malebane, Tumelo",2024 IST-AFRICA CONFERENCE,2024,"In the wake of highly capable Large Language Models (LLM) like ChatGPT,
+   educational institutions have been navigating how to position themselves
+   within this Artificial Intelligence (AI) era. There have been various
+   suggestions and attempts to exclude ChatGPT in the education sector due
+   to its AI abilities to give accurate responses to students, plagiarism
+   and over reliance on the tool. However, there are also attempts to
+   formally incorporate ChatGPT in education, such as in the field of
+   economics, computer sciences or Mathematics. Without proper guidelines
+   on the uses of ChatGPT in education, these AI technologies can be
+   disruptive, uncontrollable and pose a risk to academic integrity. Based
+   on the synthesis of ideas in the literature and ChatGPT experimental
+   tests, this paper presents relevant guidelines for effective use of
+   ChatGPT in the introductory programming education.",10.23919/IST-Africa63983.2024.10569684,
+"ChatGPT in Computer Science Education: A Case Study on a Database
+   Administration Course","Lopez-Fernandez, Daniel and Vergaz, Ricardo",APPLIED SCIENCES-BASEL,2025,"GenAI tools like ChatGPT have changed the educational landscape, and
+   empirical experiences are needed to better understand how to use them to
+   their fullest potential. This article empirically explores the usage of
+   ChatGPT 3.5 in database administration education through a case study
+   conducted with 40 computer science students. Specifically, it inspects
+   how widespread the use of ChatGPT is and students' perceptions of this
+   tool, how prior knowledge on a topic affects the use of ChatGPT, and the
+   relationship between the usage of ChatGPT and success in solving
+   practical problems. The student's grades in a computer practical exam, a
+   set of theoretical tests to assess progression in knowledge acquisition,
+   and a comprehensive questionnaire are employed as research instruments.
+   The obtained results indicate that students use ChatGPT moderately but
+   more frequently than traditional internet learning resources such as
+   official documentation, Stack Overflow or googling. However, the usage
+   is uneven among students, and those who end up getting better grades use
+   ChatGPT more. Beyond prompting skills, one of the elements that is key
+   to the students' productive use of this tool is their prior knowledge
+   about database administration. This article concludes that ChatGPT is an
+   excellent educational instrument in the context of database
+   administration and that in order to use it properly, it is necessary for
+   students to have good prompting skills as well as a sound theoretical
+   basis. Training students in the use of GenAI tools like ChatGPT, for
+   example, with a guided practice strategy where prompting and conducted
+   step-by-step practice are employed is key to prevent the appearance of
+   new digital trenches.",10.3390/app15020985,
+"Exploring the Role of AI Assistants in Computer Science Education:
+   Methods, Implications, and Instructor Perspectives","Wang, Tianjia and Diaz, Daniel Vargas and Brown, Chris and Chen, Yan","2023 IEEE SYMPOSIUM ON VISUAL LANGUAGES AND HUMAN-CENTRIC COMPUTING,
+   VL/HCC",2023,"The use of AI assistants, along with the challenges they present, has
+   sparked significant debate within the community of computer science
+   education. While these tools demonstrate the potential to support
+   students' learning and instructors' teaching, they also raise concerns
+   about enabling unethical uses by students. Previous research has
+   suggested various strategies aimed at addressing these issues. However,
+   they concentrate on introductory programming courses and focus on one
+   specific type of problem.
+   The present research evaluated the performance of ChatGPT, a
+   state-of-the-art AI assistant, at solving 187 problems spanning three
+   distinct types that were collected from six undergraduate computer
+   science. The selected courses covered different topics and targeted
+   different program levels. We then explored methods to modify these
+   problems to adapt them to ChatGPT's capabilities to reduce potential
+   misuse by students. Finally, we conducted semi-structured interviews
+   with 11 computer science instructors. The aim was to gather their
+   opinions on our problem modification methods, understand their
+   perspectives on the impact of AI assistants on computer science
+   education, and learn their strategies for adapting their courses to
+   leverage these AI capabilities for educational improvement. The results
+   revealed issues ranging from academic fairness to long-term impact on
+   students' mental models. From our results, we derived design
+   implications and recommended tools to help instructors design and create
+   future course material that could more effectively adapt to AI
+   assistants' capabilities.",10.1109/VL-HCC57772.2023.00018,
+"Investigating the Effectiveness of ChatGPT for Providing Personalized
+   Learning Experience: A Case Study","Albdrani, Raneem N. and Al-Shargabi, Amal A.",INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS,2023,"The demand for personalized learning experiences that cater to the
+   unique needs of individual learners has increased with the emergence of
+   data science. This paper investigates the potential use of ChatGPT, a
+   generative AI tool, in providing personalized learning experiences for
+   data science education, specifically focusing on Deep Learning. The
+   paper presents a case study that applies the 5Es model to test
+   personalized learning for students using ChatGPT. The study aims to
+   answer the question of how educators can leverage ChatGPT in their
+   pedagogy to enhance student learning, and whether ChatGPT can provide a
+   better learning experience than traditional teaching methods. The paper
+   also discusses the limitations faced during the study and the findings.
+   The results suggest that ChatGPT can be a valuable resource for data
+   science education, providing personalized and instant feedback to
+   learners. However, ethical considerations such as the potential for
+   biased or inaccurate responses and the need for transparency in
+   AI-generated content should be carefully ad-dressed by educators. The
+   study highlights ChatGPT's potential as a research tool for data science
+   educators to investigate the effectiveness of AI in personalized
+   learning experiences. Overall, this paper contributes to the ongoing
+   dialogue on the role of AI in data science education and provides
+   insights into how educators can utilize ChatGPT to enhance student
+   learning and engagement.",,
+"Navigating the AI Frontier: A Critical Literature Review on Integrating
+   Artificial Intelligence into Software Engineering Education","Sah, Chandan Kumar and Lian Xiaoli and Islam, Muhammad Mirajul and
+   Islam, Md Kamrul","2024 36TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING EDUCATION AND
+   TRAINING, CSEE \& T 2024",2024,"The swift development of Artificial Intelligence (AI), namely the
+   introduction of Large Language Models (LLMs), is drastically altering
+   various industries and necessitating a major change in the way software
+   engineering is taught. To equip upcoming software engineers with the
+   knowledge and abilities to function in this AI-powered environment,
+   curriculum and pedagogical techniques must be critically reevaluated. To
+   better understand the integration of AI and LLMs into software
+   engineering education, this study gives a thorough and critical analysis
+   of the literature, looking at existing models, pedagogical frameworks,
+   and enduring issues. We explore various approaches utilized by
+   educational establishments, including as specialized AI and LLM courses,
+   incorporating modules into pre-existing curricula, and utilizing
+   open-source LLM materials. Our analysis, which is based on case studies
+   and research data, thoroughly assesses how well these strategies enable
+   software engineers to comprehend, make use of, and ethically create AI
+   and LLMs. Key obstacles to the successful integration of AI and LLM are
+   also identified by our analysis, including the inexperienced status of
+   LLM educators, resource limitations, potential biases in AI and LLM
+   algorithms, and insufficient instructor knowledge. Building on these
+   discoveries, we provide solid answers to these problems and suggest
+   interesting avenues for further study to improve the integration of AI
+   and LLM. In the end, this study advocates for a multimodal strategy to
+   get future software engineers ready for the impending AI and LLM future
+   and secure their place in this quickly changing field.",10.1109/CSEET62301.2024.10663054,
+"Unlocking Potential with Generative AI Instruction: Investigating
+   Mid-level Software Development Student Perceptions, Behavior, and
+   Adoption","Benario, Jamie Gorson and Marroquin, Jenn and Chan, Monica M. and
+   Holmes, Ernest D. V. and Mejia, Daniel","PROCEEDINGS OF THE 56TH ACM TECHNICAL SYMPOSIUM ON COMPUTER SCIENCE
+   EDUCATION, SIGCSE TS 2025, VOL 1",2025,"Generative AI tools are rapidly evolving and impacting many domains,
+   including programming. Computer Science (CS) instructors must address
+   student access to these tools. While some advocate to ban the tools
+   entirely, others suggest embracing them so that students develop the
+   skills for utilizing the tools safely and responsibly. Studies indicate
+   positive impacts, as well as cautions, on student outcomes when these
+   tools are integrated into courses. We studied the impact of
+   incorporating instruction on industry-standard generative AI tools into
+   a mid-level software development course with students from 16 Minority
+   Serving Institutions. 89\% of student participants used generative AI
+   tools prior to the course without any formal instruction. After formal
+   instruction, students most frequently used generative AI tools for
+   explaining concepts and learning new things. Students generally reported
+   positive viewpoints on their ability to learn to program and learn
+   problem-solving skills while using generative AI tools. Finally, we
+   found that students: reported to understand their code when they work
+   with generative AI tools, are critical about the outputs that generative
+   AI tools provide, and check outputs of generative AI tools to ensure
+   accuracy.",10.1145/3641554.3701859,
+"A Qualitative Assessment of ChatGPT Generated Code in the Computer
+   Science Curriculum","Wolfer, James","TOWARDS A HYBRID, FLEXIBLE AND SOCIALLY ENGAGED HIGHER EDUCATION, VOL 3,
+   ICL 2023",2024,"The emergence of Large Language Models and their deployment in systems
+   such as ChatGPT are poised to have a major impact on STEM education,
+   particularly Computer Science. These generative large language models
+   can produce program code as well as human language output. This has
+   potentially serious implications for computer science programs and
+   pedagogy. This work provides a qualitative assessment sample code
+   generated by ChatGPT, as an example of an LLM explores implications for
+   computing pedagogy.. ..",10.1007/978-3-031-53022-7\_5,
+"The Impact of Large Language Models on Programming Education and Student
+   Learning Outcomes","Jost, Gregor and Taneski, Viktor and Karakatic, Saso",APPLIED SCIENCES-BASEL,2024,"Recent advancements in Large Language Models (LLMs) like ChatGPT and
+   Copilot have led to their integration into various educational domains,
+   including software development education. Regular use of LLMs in the
+   learning process is still not well-researched; thus, this paper intends
+   to fill this gap. The paper explores the nuanced impact of informal LLM
+   usage on undergraduate students' learning outcomes in software
+   development education, focusing on React applications. We carefully
+   designed an experiment involving thirty-two participants over ten weeks
+   where we examined unrestricted but not specifically encouraged LLM use
+   and their correlation with student performance. Our results reveal a
+   significant negative correlation between increased LLM reliance for
+   critical thinking-intensive tasks such as code generation and debugging
+   and lower final grades. Furthermore, a downward trend in final grades is
+   observed with increased average LLM use across all tasks. However, the
+   correlation between the use of LLMs for seeking additional explanations
+   and final grades was not as strong, indicating that LLMs may serve
+   better as a supplementary learning tool. These findings highlight the
+   importance of balancing LLM integration with the cultivation of
+   independent problem-solving skills in programming education.",10.3390/app14104115,
+"Experience Report: Adopting an AI-Usage Policy in Software Engineering
+   Education","Rajabi, Parsa","PROCEEDINGS OF THE 26TH WESTERN CANADIAN CONFERENCE ON COMPUTING
+   EDUCATION, WCCCE 2024",2024,,10.1145/3660650.3660668,
+"Chat Overflow: Artificially Intelligent Models for Computing Education -
+   renAIssance or apocAIypse?","Denny, Paul and Becker, Brett A. and Leinonen, Juho and Prather, James","PROCEEDINGS OF THE 2023 CONFERENCE ON INNOVATION AND TECHNOLOGY IN
+   COMPUTER SCIENCE EDUCATION, ITICSE 2023, VOL 1",2023,,10.1145/3587102.3588773,
+"Generative AI in Engineering and Computing Education: A Scoping Review
+   of Empirical Studies and Educational Practices","Alvarez Ariza, Jonathan and Benitez Restrepo, Milena and Hernandez
+   Hernandez, Carola",IEEE ACCESS,2025,"Since the release of diverse generative AI (GenAI) tools such as
+   ChatGPT, Google Gemini, DALL center dot E, and GitHub Copilot, there has
+   been much debate around the impacts and implications of these tools on
+   education. Currently, extant literature remarks on the affordances,
+   challenges, and opportunities of GenAI, but few studies report and
+   analyze empirical studies and educational practices coming up by GenAI
+   usage in learning settings. Then, in this Scoping Review (ScR) based on
+   146 studies retrieved from the databases SCOPUS, Web of Science (WoS),
+   and ERIC, we analyzed the implications of integrating GenAI in
+   engineering and computing education from K-12 to tertiary levels. We
+   adopted an approach starting from the bibliometric features of the
+   studies in terms of authors, cites, years, or cluster topics, and
+   navigating to the identification of methodologies, strategies, AI
+   literacy instruments and guidelines, learning outcomes, and students'
+   and teachers' perceptions, among other features. We advocate that
+   current educational practices in engineering and computing with GenAI
+   can indicate to us a roadmap of its potentialities, uses, and risks from
+   the standpoint of both teachers and students, and this could help us to
+   create more reflexive methodologies that enhance the teaching-learning
+   process based on the evidence. Our purpose with the outcomes and
+   conclusions of this scoping review is to support educators, faculty
+   members, and other stakeholders in engineering and computing education
+   to co-create educational methodologies that articulate GenAI with
+   curricula, AI literacy, and prompt engineering encompassing students'
+   learning domains such as cognitive, affective, or behavioral.",10.1109/ACCESS.2025.3541424,
+"PROCEEDINGS OF THE 26TH AUSTRALASIAN COMPUTING EDUCATION CONFERENCE, ACE
+   2024","Budhiraja, Ritvik and Joshi, Ishika and Akolekar, Harshal and Challa,
+   Jagat Sesh and Kumar, Dhruv","PROCEEDINGS OF THE 26TH AUSTRALASIAN COMPUTING EDUCATION CONFERENCE, ACE
+   2024",2024,"have garnered significant attention in the academic community. Previous
+   research has evaluated these LLMs for various applications such as
+   generating programming exercises and solutions. However, these
+   evaluations have predominantly been conducted by instructors and
+   researchers, not considering the actual usage of LLMs by students. This
+   study adopts a student-first approach to comprehensively understand how
+   undergraduate computer science students utilize ChatGPT, a popular LLM,
+   released by OpenAI. We employ a combination of student surveys and
+   interviews to obtain valuable insights into the benefits, challenges,
+   and suggested improvements related to ChatGPT. Our findings suggest that
+   a majority of students (over 57\%) have a convincingly positive outlook
+   towards adopting ChatGPT as an aid in coursework-related tasks. However,
+   our research also highlights various challenges that must be resolved
+   for long-term acceptance of ChatGPT amongst students. The findings from
+   this investigation have broader implications and may be applicable to
+   other LLMs and their role in computing education.",10.1145/3636243.3636257,
+"Exploring the Impact of Generative AI for StandUp Report Recommendations
+   in Software Capstone Project Development","Neyem, Andres and Sandoval Alcocer, Juan Pablo and Mendoza, Marcelo and
+   Centellas-Claros, Leonardo and Gonzalez, Luis A. and Paredes-Robles,
+   Carlos","PROCEEDINGS OF THE 55TH ACM TECHNICAL SYMPOSIUM ON COMPUTER SCIENCE
+   EDUCATION, SIGCSE 2024, VOL. 1",2024,"StandUp Reports play an important role in capstone software engineering
+   courses, facilitating progress tracking, obstacle identification, and
+   team collaboration. However, despite their significance, students often
+   grapple with the challenge of creating StandUp Reports that are clear,
+   concise, and actionable. This paper investigates the impact of the use
+   of generative AI in producing StandUp report recommendations, aiming to
+   assist students in enhancing the quality and effectiveness of their
+   reports. In a semester-long capstone course, 179 students participated
+   in 16 real-world software development projects. They submitted weekly
+   StandUp Reports with the assistance of an AI-powered Slack, which
+   analyzed their initial reports and provided suggestions for enhancing
+   them using both GPT-3.5 and the early access GPT-4 API. After each
+   submitted report, students voluntarily answered a survey about usability
+   and suggestion preference. Furthermore, we conducted a linguistic
+   analysis of the recommendations made by the algorithms to gauge reading
+   ease and comprehension complexity. Our findings indicate that the
+   AI-based recommendation system helped students improve the overall
+   quality of their StandUp Reports throughout the semester. Students
+   expressed a high level of satisfaction with the tool and exhibited a
+   strong willingness to continue using it in the future. The survey
+   reveals that students perceived a slight improvement when using GPT-4
+   compared to GPT-3.5. Finally, a computational linguistic analysis
+   performed on the recommendations demonstrates that both algorithms
+   significantly improve the alignment between the generated texts and the
+   students' educational level, thereby improving the quality of the
+   original texts.",10.1145/3626252.3630854,
+"Designing LLM-Resistant Programming Assignments: Insights and Strategies
+   for CS Educators","McDanel, Bradley and Novak, Ed","PROCEEDINGS OF THE 56TH ACM TECHNICAL SYMPOSIUM ON COMPUTER SCIENCE
+   EDUCATION, SIGCSE TS 2025, VOL 1",2025,"The rapid advancement of Large Language Models (LLMs) like ChatGPT has
+   raised concerns among computer science educators about how programming
+   assignments should be adapted. This paper explores the capabilities of
+   LLMs (GPT-3.5, GPT-4, and Claude Sonnet) in solving complete, multi-part
+   CS homework assignments from the SIGCSE Nifty Assignments list. Through
+   qualitative and quantitative analysis, we found that LLM performance
+   varied significantly across different assignments and models, with
+   Claude Sonnet consistently outperforming the others. The presence of
+   starter code and test cases improved performance for advanced LLMs,
+   while certain assignments, particularly those involving visual elements,
+   proved challenging for all models. LLMs often disregarded assignment
+   requirements, produced subtly incorrect code, and struggled with
+   context-specific tasks. Based on these findings, we propose strategies
+   for designing LLM-resistant assignments. Our work provides insights for
+   instructors to evaluate and adapt their assignments in the age of AI,
+   balancing the potential benefits of LLMs as learning tools with the need
+   to ensure genuine student engagement and learning.",10.1145/3641554.3701872,
+"The Era of Learning Programming Through Program: Challenges and
+   Potential of ChatGPT in Revolutionizing High School Programming
+   Education","Yang, Tzu-Chi","32ND INTERNATIONAL CONFERENCE ON COMPUTERS IN EDUCATION CONFERENCE
+   PROCEEDINGS, ICCE 2024, VOL II",2024,"In the digital age, the importance of programming education has become
+   increasingly prominent. Due to the open nature of programming languages,
+   many tools and systems designed to support programming education in the
+   past have been limited in their ability to effectively assist in the
+   learning process. However, the emergence of generative AI, exemplified
+   by ChatGPT, has demonstrated remarkable natural language processing
+   capabilities and a vast repository of knowledge, overcome previous
+   limitations and offering unprecedented potential for advancing
+   programming education. ChatGPT has shown near-teacher-level proficiency
+   in providing content, debugging, refining, evaluating, implementing, and
+   even creating programs. This signifies that we are on the cusp of an era
+   where programming can be learned through interaction with advanced AI.
+   However, there is still a lack of substantial research on evaluating the
+   benefits of integrating ChatGPT into programming education. Therefore,
+   this paper aims to illustrate, through practical examples, how the
+   introduction of ChatGPT can impact programming education, the potential
+   challenges it may present, and how we can prepare to embrace this new
+   era of learning programming through AI.",,
